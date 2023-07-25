@@ -2,7 +2,7 @@ package com.aslihanhasar.practices.Java101.firstWeek.sumNumberDigits;
 
 import java.util.Scanner;
 
-public class NumberDigits {
+public class NumberDigit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number;
