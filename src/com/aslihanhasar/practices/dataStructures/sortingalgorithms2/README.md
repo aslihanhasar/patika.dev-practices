@@ -11,7 +11,7 @@ Bu repo, Veri yapıları ve Algoritmalar eğitimi kapsamındaki projeler için o
 ## Installation
 Projeyi clonelayın.
 
-> https://github.com/aslihanhasar/patika.dev-practice.git
+> https://github.com/aslihanhasar/patika.dev-practices.git
 ---
 
 ## Usage

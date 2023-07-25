@@ -1,15 +1,15 @@
-# Not Ortalaması Hesaplayan Program
+# KDV Hesaplayan Program
 Bu repo, Java 101 eğitimi kapsamında java dili ile
 yazılan bir proje için oluşturulmuştur. İçerisinde 
-bir adet README.md ve bir adet NotOrtalamasi.java dosyası
+bir adet README.md ve bir adet Main.java dosyası
 barındırıyor.
 
-Proje Matematik,Fizik, Kimya, Türkçe, Tarih ve Müzik
-derslerinin sınav notlarını kullanıcıdan alarak genel 
-ortalamayı hesaplar ve ekrana yazdırır. Ortalama 60 ve
-üzeri ise ekrana "Tebrikler, Sınıfı Geçtiniz."
-yazdırırken ortalama 60 altında ise ekrana "Üzgünüz,
-Sınıfta Kaldınız." çıktısını vermektedir.
+Proje KDV'siz fiyatının kullanıcıdan alınmasıyla basit
+karşılaştırma ifadeleri kullanılarak girilen tutarın 0 ve 1000
+arasında olup olmamasını karşılaştırır, girilen tutar 0 ve 1000
+arasındaysa KDV Oranını 0.18, eğer değilse KDV Oranını
+0.08 olarak ekrana yazdırır. Ardından KDV Tutarı ve KDV'li Fiyat
+hesaplanarak ekrana çıktıları verilir.
 
 ---
 
