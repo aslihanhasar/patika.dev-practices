@@ -8,7 +8,7 @@
   
 The "n-th harmonic number" is the partial sum of the harmonic series,
 
-![img.png](img.png)
+![images/img.png](../../../../../../../images/img.png)
 
 ---
 
