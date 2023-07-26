@@ -40,7 +40,7 @@ After cloning the project, open it with the ide you used.
 ## Author
 **Aslıhan Hasar**
 
-* GitHub: [miyendisa](https://github.com/miyendisa)
+* GitHub: [aslıhanhasar](https://github.com/aslihanhasar)
 * LinkedIn: [aslıhanhasar](https://www.linkedin.com/in/asl%C4%B1hanhasar
   )
 ---
